@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/DATA/images
+val: /content/drive/MyDrive/DATA/images
+
+# Classes
+names:
+  0: car
